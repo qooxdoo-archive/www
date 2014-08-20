@@ -1,11 +1,8 @@
-Resources of Our Online Systems
-=================================
+Resources of Project Website
+============================
 
-Resources (style sheets, .js code, etc.) of the systems of our online presence 
-(homepage, blog, issbugzilla
-                    news
-                    resources
-                    wikiue tracker, etc.).
+Resources (stylesheets, JS code, etc.) of the systems of our online presence 
+(homepage, blog, issue tracker, news, resources, wiki, etc.).
 
 The files in the various subsystems represent only those parts that were
 tweaked/adapted for our needs. The original paths have been retained. But newer
