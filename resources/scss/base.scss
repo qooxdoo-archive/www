@@ -102,17 +102,19 @@ code,
 }
 
 pre {
-  font-size: $fontSize;
+  font-size: $fontSize - 1px;
+  font-weight: normal;
   line-height: 1.5;
   overflow: auto;
   margin: 1em 0;
 }
 span.pre {
+  font-size: $fontSize - 1px;
   background-color: #f0f0f0;
 }
 
 code {
-  font-size: $fontSize;
+  font-size: $fontSize - 1px;
   color: $fg + #121212;
 }
 
