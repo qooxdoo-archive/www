@@ -1,7 +1,7 @@
 body#home {
 
   section#wrapper > h1 {
-    display: none;  
+    display: none;
   }
 
   #callout {
@@ -165,7 +165,7 @@ body#home {
         div.feature {
           position: absolute;
           height: 110px;
-          top: 76px;
+          top: 106px !important;
           margin-top: round($line * 0.5);
 
           & > * {

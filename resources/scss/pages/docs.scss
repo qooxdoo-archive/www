@@ -56,7 +56,7 @@ body#docs {
       @include columns(12);
       background-color: $lightShade;
       margin-bottom: $gridGutterWidth;
-      height: $line * 10;
+      height: $line * 16;
 
       & > div {
         padding: 10px;
